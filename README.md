@@ -1,5 +1,5 @@
 # gameplay ./sfml-version (Graphical version)..
-![screenshot](https://github.com/iwantamouse/tic-tac-teo-terminal-game/blob/master/sfml-version/assets/gameplay.gif)
+![screenshot](https://github.com/cpeepee/tic-tac-teo-terminal-game/blob/master/sfml-version/assets/gameplay.gif)
 
 # screenshot from ./v2 (Terminal version)
 ![screenshot](http://mewware.com/mewware/p-ttt-sss/v2/tttv2.png)
