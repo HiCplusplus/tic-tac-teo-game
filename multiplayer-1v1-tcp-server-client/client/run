@@ -1,0 +1,7 @@
+#!/bin/bash
+g++ -c configs.h tttgame.h tttgame.cpp main.cpp
+echo "g++ compile completed"
+
+g++ tttgame.o main.o -o game.run -lsfml-graphics -lsfml-window -lsfml-system -lsfml-network
+echo "g++ object files completed"
+#./game.run

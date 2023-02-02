@@ -1,0 +1,1261 @@
+g++ compile completed
+g++ object files completed
+maxY=600 maxX=600
+TEXTURESIZE=100 HALFTEXTURE=50
+
+
+sizePeice.x= 100 sizePeice.y= 100
+i=0 pos.x=0 pos.y=0
+sizePeice.x= 100 sizePeice.y= 100
+i=1 pos.x=250 pos.y=0
+sizePeice.x= 100 sizePeice.y= 100
+i=2 pos.x=500 pos.y=0
+sizePeice.x= 100 sizePeice.y= 100
+i=3 pos.x=0 pos.y=250
+sizePeice.x= 100 sizePeice.y= 100
+i=4 pos.x=250 pos.y=250
+sizePeice.x= 100 sizePeice.y= 100
+i=5 pos.x=500 pos.y=250
+sizePeice.x= 100 sizePeice.y= 100
+i=6 pos.x=0 pos.y=500
+sizePeice.x= 100 sizePeice.y= 100
+i=7 pos.x=250 pos.y=500
+sizePeice.x= 100 sizePeice.y= 100
+i=8 pos.x=500 pos.y=500
+pvp is on
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+		mouse is clicked on sprite i=4+1
+temp_playerMoveCell = 5
+
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [0,0,0]
+y = [0,1,0]
+z = [0,0,0]
+game is continue
+player1 move applied to ui cellid-1=4
+temp_playerMoveCell-1 = 4
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+Mouse Left Button Pressed
+mouse pos  =499 y=316
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+temp_player2MoveCell-1 = -2
+[INVALID INPUT] cell id -1 is invalid.
+player2 MOVE REJECTED/HAS PROBLEM.
+
+
+
+ game is not end.
+player2 (o) turn to move.
+		mouse is clicked on sprite i=5+1
+temp_player2MoveCell-1 = 5
+
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [0,0,0]
+y = [0,1,2]
+z = [0,0,0]
+game is continue
+player2 move applied to ui cellid-1=5
+temp_player2MoveCell-1 = 5
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...
+
+
+
+ game is not end.
+player1 (x) turn to move.
+temp_playerMoveCell = -1
+[INVALID INPUT] cell id -1 is invalid.
+player1 MOVE REJECTED.
+player1 please enter aviable cell. ur turn again...

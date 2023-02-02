@@ -1,0 +1,116 @@
+			 int main()				void init()	maxY=600 maxX=600
+TEXTURESIZE=100 HALFTEXTURE=50
+
+
+sizePeice.x= 100 sizePeice.y= 100
+i=0 pos.x=0 pos.y=0
+sizePeice.x= 100 sizePeice.y= 100
+i=1 pos.x=250 pos.y=0
+sizePeice.x= 100 sizePeice.y= 100
+i=2 pos.x=500 pos.y=0
+sizePeice.x= 100 sizePeice.y= 100
+i=3 pos.x=0 pos.y=250
+sizePeice.x= 100 sizePeice.y= 100
+i=4 pos.x=250 pos.y=250
+sizePeice.x= 100 sizePeice.y= 100
+i=5 pos.x=500 pos.y=250
+sizePeice.x= 100 sizePeice.y= 100
+i=6 pos.x=0 pos.y=500
+sizePeice.x= 100 sizePeice.y= 100
+i=7 pos.x=250 pos.y=500
+sizePeice.x= 100 sizePeice.y= 100
+i=8 pos.x=500 pos.y=500
+			void initLabels()				tttgame::tttgame(int playerid,int computerid)	
+
+
+
+			 int tttgame::getRoundCounter()	computer turn to move.
+			 int tttgame::computerMove()				 void tttgame::computerCalculateMove()				 int tttgame::computerInitMove()				int tttgame::move(int playerid,int cellid)				void tttgame::consoleLog()	
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [1,0,0]
+y = [0,0,0]
+z = [0,0,0]
+			int tttgame::gameResultCheck()	game is continue
+computer init move = 1
+temp_computerMoveCell-1 = 0
+computer move applied to ui cellid-1=0
+temp_computerMoveCell-1 = 0
+			void draw()	
+
+
+
+			 int tttgame::getRoundCounter()	player turn to move.
+		mouse is clicked on sprite i=5+1
+			int tttgame::move(int playerid,int cellid)				void tttgame::consoleLog()	
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [1,0,0]
+y = [0,0,2]
+z = [0,0,0]
+			int tttgame::gameResultCheck()	game is continue
+player move applied to ui cellid-1=5
+temp_playerMoveCell-1 = 5
+			void draw()	
+
+
+
+			 int tttgame::getRoundCounter()	computer turn to move.
+			 int tttgame::computerMove()				 void tttgame::computerCalculateMove()				 int tttgame::computerInitMove()				int tttgame::move(int playerid,int cellid)				void tttgame::consoleLog()	
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [1,0,1]
+y = [0,0,2]
+z = [0,0,0]
+			int tttgame::gameResultCheck()	game is continue
+computer init move = 3
+temp_computerMoveCell-1 = 2
+computer move applied to ui cellid-1=2
+temp_computerMoveCell-1 = 2
+			void draw()	
+
+
+
+			 int tttgame::getRoundCounter()	player turn to move.
+		mouse is clicked on sprite i=8+1
+			int tttgame::move(int playerid,int cellid)				void tttgame::consoleLog()	
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [1,0,1]
+y = [0,0,2]
+z = [0,0,2]
+			int tttgame::gameResultCheck()	game is continue
+player move applied to ui cellid-1=8
+temp_playerMoveCell-1 = 8
+			void draw()	
+
+
+
+			 int tttgame::getRoundCounter()	computer turn to move.
+			 int tttgame::computerMove()				 void tttgame::computerCalculateMove()				int tttgame::move(int playerid,int cellid)				void tttgame::consoleLog()	
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [1,1,1]
+y = [0,0,2]
+z = [0,0,2]
+			int tttgame::gameResultCheck()	player 1 won by raw x
+temp_computerMoveCell-1 = 1
+computer move applied to ui cellid-1=1
+temp_computerMoveCell-1 = 1
+			void draw()	
+
+
+
+			 int tttgame::getRoundCounter()	game end?
+			int tttgame::gameResultCheck()	player 1 won by raw x
+			void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()	START AGAIN . mouse is clicked on button game when game is end.
+gameCCCCCCCCCCCCCCCCCCC = 0
+			void draw()	
+
+
+
+			 int tttgame::getRoundCounter()	game end?
+			int tttgame::gameResultCheck()	game is continue
+			void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()				void draw()	START AGAIN . mouse is clicked on button game when game is end.
+gameCCCCCCCCCCCCCCCCCCC = 0
+			void draw()	
+
+
+
+			 int tttgame::getRoundCounter()	game end?
+			int tttgame::gameResultCheck()	game is continue

@@ -1,0 +1,101 @@
+g++ compile completed
+g++ object files completed
+pvp clicked.
+res menu = 2
+unknown result code for manu so lets play game as defualt settings.
+pvp is off
+
+
+
+ game!end
+computer turn to move.
+
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [0,0,3]
+y = [0,0,0]
+z = [0,0,0]
+game is continue
+computer init move = 3
+computer move applied to ui cellid-1=2
+
+
+
+ game!end
+player turn to move.
+		mouse is clicked on sprite i=5+1
+
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [0,0,3]
+y = [0,0,1]
+z = [0,0,0]
+game is continue
+player move applied to ui cellid-1=5
+
+
+
+ game!end
+computer turn to move.
+
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [0,0,3]
+y = [0,0,1]
+z = [3,0,0]
+game is continue
+computer init move = 7
+computer move applied to ui cellid-1=6
+
+
+
+ game!end
+player turn to move.
+		mouse is clicked on sprite i=4+1
+
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [0,0,3]
+y = [0,1,1]
+z = [3,0,0]
+game is continue
+player move applied to ui cellid-1=4
+
+
+
+ game!end
+computer turn to move.
+
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [0,0,3]
+y = [3,1,1]
+z = [3,0,0]
+game is continue
+computer move applied to ui cellid-1=3
+
+
+
+ game!end
+player turn to move.
+		mouse is clicked on sprite i=1+1
+
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [0,1,3]
+y = [3,1,1]
+z = [3,0,0]
+game is continue
+player move applied to ui cellid-1=1
+
+
+
+ game!end
+computer turn to move.
+
+- - - - - - - - - - Game Status - - - - - - - - - -
+x = [3,1,3]
+y = [3,1,1]
+z = [3,0,0]
+player 3 won by raw xyz 0
+computer move applied to ui cellid-1=0
+
+
+
+ game!end
+?????????   game end? but sounds like cells are full.
+player 3 won by raw xyz 0
