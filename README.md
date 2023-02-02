@@ -4,7 +4,7 @@
 # screenshot from ./v2 (Terminal version)
 ![screenshot](http://mewware.com/mewware/p-ttt-sss/v2/tttv2.png)
 
-## bug
+## bug (fixed for sfml version , only exists on terminal version)
 ### there is no validation on player clicks, so if player in his turn click at full/filled cell/box the game will not wait for correct cell by player, game will be continue and next turn is computer.
 
 # desc
